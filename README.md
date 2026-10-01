@@ -47,11 +47,7 @@ My goal is to build strong practical skills in **Security Operations, threat det
 <img src="https://img.shields.io/badge/Windows-1976D2?style=for-the-badge&logo=windows&color=0D47A1" alt="Windows" /> <img src="https://img.shields.io/badge/Linux-00838F?style=for-the-badge&logo=linux&color=006064" alt="Linux" /> <img src="https://img.shields.io/badge/Kali_Linux-1976D2?style=for-the-badge&logo=kali-linux&color=0D47A1" alt="Kali Linux" />
 <br><br>
 
-<img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&color=000000" alt="TCP/IP" />
-<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&color=000000" alt="DNS" />
-<img src="https://img.shields.io/badge/HTTP%2FHTTPS-FF6F00?style=for-the-badge&color=000000" alt="HTTP HTTPS" />
-<img src="https://img.shields.io/badge/Network_Analysis-2E7D32?style=for-the-badge&color=000000" alt="Network Analysis" />
-
+<img src="https://img.shields.io/badge/TCP%2FIP-1976D2?style=for-the-badge&color=0D47A1" alt="TCP/IP" /> <img src="https://img.shields.io/badge/DNS-00838F?style=for-the-badge&color=006064" alt="DNS" /> <img src="https://img.shields.io/badge/HTTP%2FHTTPS-1976D2?style=for-the-badge&color=0D47A1" alt="HTTP HTTPS" /> <img src="https://img.shields.io/badge/Network_Analysis-00838F?style=for-the-badge&color=006064" alt="Network Analysis" />
 <br><br>
 
 <img src="https://img.shields.io/badge/Phishing_Analysis-B71C1C?style=for-the-badge&color=000000" alt="Phishing Analysis" />
