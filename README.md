@@ -36,7 +36,7 @@ My goal is to build strong practical skills in **Security Operations, threat det
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/SOC_Operations-1E88E5?style=for-the-badge&color=000000" alt="SOC Operations" />
+<img src="https://img.shields.io/badge/SOC_Operations-1565C0?style=for-the-badge&color=0D1B2A" alt="SOC Operations" />
 <img src="https://img.shields.io/badge/SIEM-6A1B9A?style=for-the-badge&color=000000" alt="SIEM" />
 <img src="https://img.shields.io/badge/Log_Analysis-00897B?style=for-the-badge&color=000000" alt="Log Analysis" />
 <img src="https://img.shields.io/badge/Threat_Detection-D32F2F?style=for-the-badge&color=000000" alt="Threat Detection" />
