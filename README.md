@@ -40,11 +40,7 @@ My goal is to build strong practical skills in **Security Operations, threat det
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Wazuh-1677FF?style=for-the-badge&color=000000" alt="Wazuh" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" alt="Splunk" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&color=000000" alt="Sysmon" />
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&color=000000" alt="VirusTotal" />
+<img src="https://img.shields.io/badge/Wazuh-1976D2?style=for-the-badge&color=0D47A1" alt="Wazuh" /> <img src="https://img.shields.io/badge/Splunk-1976D2?style=for-the-badge&logo=splunk&color=0D47A1" alt="Splunk" /> <img src="https://img.shields.io/badge/Wireshark-1976D2?style=for-the-badge&logo=wireshark&color=0D47A1" alt="Wireshark" /> <img src="https://img.shields.io/badge/Sysmon-1976D2?style=for-the-badge&color=0D47A1" alt="Sysmon" /> <img src="https://img.shields.io/badge/VirusTotal-1976D2?style=for-the-badge&color=0D47A1" alt="VirusTotal" />otal" />
 
 <br><br>
 
