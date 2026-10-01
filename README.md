@@ -230,5 +230,4 @@ I am continuously improving my knowledge through cybersecurity labs, hands-on pr
 **GitHub:** [View my GitHub](https://github.com/YOUR-USERNAME)
 
 ---
-
-⭐ This repository documents my cybersecurity learning journey, practical labs, and SOC-related projects.
+⭐ Thanks for visiting my cybersecurity portfolio!
