@@ -37,11 +37,9 @@ My goal is to build strong practical skills in **Security Operations, threat det
 <div align="left">
 
 <img src="https://img.shields.io/badge/SOC_Operations-1976D2?style=for-the-badge&color=0D47A1" alt="SOC Operations" /> <img src="https://img.shields.io/badge/SIEM-1976D2?style=for-the-badge&color=0D47A1" alt="SIEM" /> <img src="https://img.shields.io/badge/Log_Analysis-1976D2?style=for-the-badge&color=0D47A1" alt="Log Analysis" /> <img src="https://img.shields.io/badge/Threat_Detection-1976D2?style=for-the-badge&color=0D47A1" alt="Threat Detection" /> <img src="https://img.shields.io/badge/Incident_Response-1976D2?style=for-the-badge&color=0D47A1" alt="Incident Response" /> <img src="https://img.shields.io/badge/Threat_Hunting-1976D2?style=for-the-badge&color=0D47A1" alt="Threat Hunting" />
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Wazuh-1976D2?style=for-the-badge&color=0D47A1" alt="Wazuh" /> <img src="https://img.shields.io/badge/Splunk-1976D2?style=for-the-badge&logo=splunk&color=0D47A1" alt="Splunk" /> <img src="https://img.shields.io/badge/Wireshark-1976D2?style=for-the-badge&logo=wireshark&color=0D47A1" alt="Wireshark" /> <img src="https://img.shields.io/badge/Sysmon-1976D2?style=for-the-badge&color=0D47A1" alt="Sysmon" /> <img src="https://img.shields.io/badge/VirusTotal-1976D2?style=for-the-badge&color=0D47A1" alt="VirusTotal" />
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Windows-1976D2?style=for-the-badge&logo=windows&color=0D47A1" alt="Windows" /> <img src="https://img.shields.io/badge/Linux-00838F?style=for-the-badge&logo=linux&color=006064" alt="Linux" /> <img src="https://img.shields.io/badge/Kali_Linux-1976D2?style=for-the-badge&logo=kali-linux&color=0D47A1" alt="Kali Linux" />
