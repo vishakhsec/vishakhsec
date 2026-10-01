@@ -94,8 +94,6 @@ My goal is to build strong practical skills in **Security Operations, threat det
 
 </div>
 
-**Advanced Diploma in Cyber Defense (ADCD)**
-**RedTeam Hacker Academy**
 
 ---
 
