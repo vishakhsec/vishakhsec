@@ -53,8 +53,7 @@ My goal is to build strong practical skills in **Security Operations, threat det
 <img src="https://img.shields.io/badge/Phishing_Analysis-1976D2?style=for-the-badge&color=0D47A1" alt="Phishing Analysis" /> <img src="https://img.shields.io/badge/Email_Header_Analysis-5E35B1?style=for-the-badge&color=4527A0" alt="Email Header Analysis" /> <img src="https://img.shields.io/badge/IOC_Analysis-1976D2?style=for-the-badge&color=0D47A1" alt="IOC Analysis" /> <img src="https://img.shields.io/badge/Threat_Intelligence-5E35B1?style=for-the-badge&color=4527A0" alt="Threat Intelligence" />
 <br><br>
 
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&color=000000" alt="MITRE ATT&CK" />
-<img src="https://img.shields.io/badge/Cyber_Kill_Chain-424242?style=for-the-badge&color=000000" alt="Cyber Kill Chain" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-1976D2?style=for-the-badge&color=0D47A1" alt="MITRE ATT&CK" /> <img src="https://img.shields.io/badge/Cyber_Kill_Chain-5E35B1?style=for-the-badge&color=4527A0" alt="Cyber Kill Chain" />
 
 </div>
 
