@@ -44,10 +44,7 @@ My goal is to build strong practical skills in **Security Operations, threat det
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&color=000000" alt="Windows" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-
+<img src="https://img.shields.io/badge/Windows-1976D2?style=for-the-badge&logo=windows&color=0D47A1" alt="Windows" /> <img src="https://img.shields.io/badge/Linux-00838F?style=for-the-badge&logo=linux&color=006064" alt="Linux" /> <img src="https://img.shields.io/badge/Kali_Linux-1976D2?style=for-the-badge&logo=kali-linux&color=0D47A1" alt="Kali Linux" />
 <br><br>
 
 <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&color=000000" alt="TCP/IP" />
