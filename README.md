@@ -1,6 +1,6 @@
 
 
-I'm **Vishakh**,
+I'm **Vishakh**
 a **BSc Computer Science graduate** currently building my skills in **defensive cybersecurity and Security Operations**.
 
 My goal is to develop practical skills in **SOC monitoring, SIEM, threat detection, incident investigation, and incident response**.
@@ -10,6 +10,7 @@ My goal is to develop practical skills in **SOC monitoring, SIEM, threat detecti
 ## 👨‍💻 About Me
 
 * 🎓 BSc Computer Science Graduate
+* 🛡️ Advanced Diploma in Cyber Defense (ADCD)
 * 🛡️ Aspiring SOC Analyst
 * 🔵 Interested in Blue Team & Defensive Security
 * 🔎 Learning Security Monitoring & Alert Triage
@@ -186,32 +187,9 @@ Learn how to analyze network traffic and investigate suspicious communication.
 
 * BSc Computer Science
 * Certified Ethical Hacker (CEH)
+* Advanced Diploma in Cyber Defense (ADCD)
 * SOC Analyst Training
 * Cybersecurity Labs & Practical Exercises
-
----
-
-# 🔄 SOC Investigation Workflow
-
-```text
-Alert
-  ↓
-Initial Investigation
-  ↓
-Collect Evidence
-  ↓
-Analyze Logs
-  ↓
-Identify Indicators
-  ↓
-Map to MITRE ATT&CK
-  ↓
-Determine Severity
-  ↓
-Document Findings
-  ↓
-Response / Escalation
-```
 
 ---
 
@@ -230,4 +208,4 @@ I am continuously improving my knowledge through cybersecurity labs, hands-on pr
 **GitHub:** [View my GitHub](https://github.com/YOUR-USERNAME)
 
 ---
-⭐ Thanks for visiting my cybersecurity portfolio!
+ Thanks for visiting my cybersecurity portfolio!
