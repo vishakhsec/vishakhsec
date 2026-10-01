@@ -108,12 +108,6 @@ My goal is to build strong practical skills in **Security Operations, threat det
 | **[Windows Security Investigation](./Windows-Security-Investigation)** | Windows Event Log and Sysmon analysis, authentication investigation and MITRE ATT&CK mapping. |
 | **[Network Traffic Analysis](./Network-Traffic-Analysis)**             | Network packet analysis, DNS investigation and suspicious traffic analysis using Wireshark.   |
 
----
-
-<h2 id="soc_workflow" align="">🔄 SOC Investigation Workflow</h2>
-
-<br>
-
 
 ---
 
