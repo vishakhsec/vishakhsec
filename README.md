@@ -50,11 +50,7 @@ My goal is to build strong practical skills in **Security Operations, threat det
 <img src="https://img.shields.io/badge/TCP%2FIP-1976D2?style=for-the-badge&color=0D47A1" alt="TCP/IP" /> <img src="https://img.shields.io/badge/DNS-00838F?style=for-the-badge&color=006064" alt="DNS" /> <img src="https://img.shields.io/badge/HTTP%2FHTTPS-1976D2?style=for-the-badge&color=0D47A1" alt="HTTP HTTPS" /> <img src="https://img.shields.io/badge/Network_Analysis-00838F?style=for-the-badge&color=006064" alt="Network Analysis" />
 <br><br>
 
-<img src="https://img.shields.io/badge/Phishing_Analysis-B71C1C?style=for-the-badge&color=000000" alt="Phishing Analysis" />
-<img src="https://img.shields.io/badge/Email_Header_Analysis-1565C0?style=for-the-badge&color=000000" alt="Email Header Analysis" />
-<img src="https://img.shields.io/badge/IOC_Analysis-6A1B9A?style=for-the-badge&color=000000" alt="IOC Analysis" />
-<img src="https://img.shields.io/badge/Threat_Intelligence-37474F?style=for-the-badge&color=000000" alt="Threat Intelligence" />
-
+<img src="https://img.shields.io/badge/Phishing_Analysis-1976D2?style=for-the-badge&color=0D47A1" alt="Phishing Analysis" /> <img src="https://img.shields.io/badge/Email_Header_Analysis-5E35B1?style=for-the-badge&color=4527A0" alt="Email Header Analysis" /> <img src="https://img.shields.io/badge/IOC_Analysis-1976D2?style=for-the-badge&color=0D47A1" alt="IOC Analysis" /> <img src="https://img.shields.io/badge/Threat_Intelligence-5E35B1?style=for-the-badge&color=4527A0" alt="Threat Intelligence" />
 <br><br>
 
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=for-the-badge&color=000000" alt="MITRE ATT&CK" />
