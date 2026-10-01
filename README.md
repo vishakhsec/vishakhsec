@@ -36,14 +36,7 @@ My goal is to build strong practical skills in **Security Operations, threat det
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/SOC_Operations-1565C0?style=for-the-badge&color=0D1B2A" alt="SOC Operations" />
-<img src="https://img.shields.io/badge/SOC_Operations-1976D2?style=for-the-badge&color=0D47A1" alt="SOC Operations" />
-<img src="https://img.shields.io/badge/SOC_Operations-00ACC1?style=for-the-badge&color=102A43" alt="SOC Operations" />
-<img src="https://img.shields.io/badge/SIEM-6A1B9A?style=for-the-badge&color=000000" alt="SIEM" />
-<img src="https://img.shields.io/badge/Log_Analysis-00897B?style=for-the-badge&color=000000" alt="Log Analysis" />
-<img src="https://img.shields.io/badge/Threat_Detection-D32F2F?style=for-the-badge&color=000000" alt="Threat Detection" />
-<img src="https://img.shields.io/badge/Incident_Response-E65100?style=for-the-badge&color=000000" alt="Incident Response" />
-<img src="https://img.shields.io/badge/Threat_Hunting-455A64?style=for-the-badge&color=000000" alt="Threat Hunting" />
+<img src="https://img.shields.io/badge/SOC_Operations-1976D2?style=for-the-badge&color=0D47A1" alt="SOC Operations" /> <img src="https://img.shields.io/badge/SIEM-1976D2?style=for-the-badge&color=0D47A1" alt="SIEM" /> <img src="https://img.shields.io/badge/Log_Analysis-1976D2?style=for-the-badge&color=0D47A1" alt="Log Analysis" /> <img src="https://img.shields.io/badge/Threat_Detection-1976D2?style=for-the-badge&color=0D47A1" alt="Threat Detection" /> <img src="https://img.shields.io/badge/Incident_Response-1976D2?style=for-the-badge&color=0D47A1" alt="Incident Response" /> <img src="https://img.shields.io/badge/Threat_Hunting-1976D2?style=for-the-badge&color=0D47A1" alt="Threat Hunting" />
 
 <br><br>
 
