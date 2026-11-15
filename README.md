@@ -78,12 +78,9 @@ My goal is to build strong practical skills in **Security Operations, threat det
 
 <br>
 
-| **Project**                                                            | **Description**                                                                               |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **[SIEM & Log Analysis Lab](./SIEM-Log-Analysis)**                     | Security log collection, alert analysis, investigation and SIEM practice using Wazuh/Splunk.  |
-| **[Phishing Email Analysis](./Phishing-Email-Analysis)**               | Email header analysis, SPF, DKIM, DMARC, URL investigation and IOC identification.            |
-| **[Windows Security Investigation](./Windows-Security-Investigation)** | Windows Event Log and Sysmon analysis, authentication investigation and MITRE ATT&CK mapping. |
-| **[Network Traffic Analysis](./Network-Traffic-Analysis)**             | Network packet analysis, DNS investigation and suspicious traffic analysis using Wireshark.   |
+| **Project** | **Description** |
+| --- | --- |
+| **[Phishing Email Investigation Tool](https://github.com/vishakhsec/phishing-investigator)** | A Flask app that analyzes `.eml` files for phishing indicators — header mismatches, failed SPF/DKIM/DMARC, suspicious URLs, disguised attachments — and produces a weighted risk score, MITRE ATT&CK mapping, and a downloadable report. 
 
 
 ---
