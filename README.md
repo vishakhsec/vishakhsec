@@ -84,6 +84,15 @@ My goal is to build strong practical skills in **Security Operations, threat det
 
 
 ---
+<h2 id="writeups" align="">📝 SOC Investigation Writeups</h2>
+
+<br>
+
+I write up my own investigations of simulated SOC alerts (from LetsDefend) — covering alert triage, log analysis, IOC identification, MITRE ATT&CK mapping, final verdicts, and recommended response actions.
+
+🔗 **[View all writeups →](https://github.com/vishakhsec/SOC-Analyst-Writeups)**
+
+--- 
 
 <h2 id="currently_learning" align="">📚 Currently Learning</h2>
 
