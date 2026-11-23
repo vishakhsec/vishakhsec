@@ -2,13 +2,13 @@
 
 # 👋 Hi there!
 
-I'm **[Vishakh](YOUR-LINKEDIN-URL)**, a **BSc Computer Science graduate** and aspiring **SOC Analyst** focused on **defensive cybersecurity, security monitoring, SIEM, log analysis, and incident investigation**.
+I'm **[Vishakh](https://www.linkedin.com/in/vishakh-p/)**, a **BSc Computer Science graduate** and aspiring **SOC Analyst** focused on **defensive cybersecurity, security monitoring, SIEM, log analysis, and incident investigation**.
 
 I have earned an **Advanced Diploma in Cyber Defense (ADCD)** from **RedTeam Hacker Academy** and hold a **Certified Ethical Hacker (CEH)** certification.
 
 My goal is to build strong practical skills in **Security Operations, threat detection, incident response, and Blue Team security**.
 
-<a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishakh-p/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
@@ -135,7 +135,7 @@ My current focus is:
 
 <br>
 
-<a href="YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/vishakh-p/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
