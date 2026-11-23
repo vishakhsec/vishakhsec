@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi+there!)](https://git.io/typing-svg)
+ # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi+there!)](https://git.io/typing-svg)
 # 👋 Hi there!
 
 I'm **[Vishakh](https://www.linkedin.com/in/vishakh-p/)**, a **BSc Computer Science graduate** and aspiring **SOC Analyst** focused on **defensive cybersecurity, security monitoring, SIEM, log analysis, and incident investigation**.
