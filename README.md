@@ -1,14 +1,3 @@
-<div align="center">
-
-<p><sub>WOW PROFILE · VISHAKHSEC · LIVE</sub></p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)"
-srcset="https://www.gitskins.com/api/section/hero?username=vishakhsec&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F336495129%3Fv%3D4&variant=living-identity&label=Vishakh%20.p&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=vishakhsec&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F336495129%3Fv%3D4&variant=living-identity&label=Vishakh%20.p&v=wow-living-identity-1&mode=dark" alt="Vishakh P - GitSkins living identity banner" width="100%" />
-</picture>
-
-</div>
 
 # 👋 Hi there!
 
